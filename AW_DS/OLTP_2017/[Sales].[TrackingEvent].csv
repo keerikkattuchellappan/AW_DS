@@ -1,0 +1,8 @@
+,TrackingEventID,EventName
+0,1,Order processing
+1,2,"Order processed, ready for pickup"
+2,3,In transit
+3,4,Arrived at facility
+4,5,Departed from facility
+5,6,Order delivered
+6,7,Delivery error
